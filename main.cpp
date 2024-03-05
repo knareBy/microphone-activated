@@ -99,7 +99,7 @@ int main() {
                 }
             }
         }
-	Sleep(100);
+	Sleep(1);
     }
     
     return 0;

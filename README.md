@@ -5,7 +5,7 @@ The voice files were generated with www.voicemaker.in
 You can change them to whatever you want as long as you name them microphone_activated.wav and microphone_muted.wav
 
 # Download the release (for Windows)
-https://github.com/knareBy/microphone-activated/releases/tag/v1.0.0
+https://github.com/knareBy/microphone-activated/releases/tag/v1.0.2
 
 # Build from source
 Building with GCC:
